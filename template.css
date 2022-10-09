@@ -156,7 +156,7 @@ header nav ul li a:hover {
 .landing {
     min-height: 100vh;
     background-color: black;
-    background-image: url(../project-2/photo/owl-nature-forest-qv.jpg);
+    background-image: url(./photo/owl-nature-forest-qv.jpg);
     background-size: cover;
     position: relative;
 }
@@ -348,7 +348,7 @@ header nav ul li a:hover {
     padding-bottom: 40px;
     margin-bottom: 50px;
     background-size: cover;
-    background-image: url(../project-2/photo/Blue-Tech-Digital-Background-Stock-Motion-Graphics-.jpg);
+    background-image: url(./photo/Blue-Tech-Digital-Background-Stock-Motion-Graphics-.jpg);
     position: relative;
     display: flex;
     align-items: center;
@@ -663,7 +663,7 @@ header nav ul li a:hover {
 
 
 .background {
-    background-image: url(../project-2/photo/image.png);
+    background-image: url(./photo/image.png);
     background-size: cover;
     text-align: center;
     padding-bottom: 100px;
@@ -885,7 +885,7 @@ header nav ul li a:hover {
 
 /*10- accumsan*/
 .accumsan {
-    background-image: url(../project-2/photo/intersecting-three-dimensional-lines-in-ralf-hiemisch.jpg);
+    background-image: url(./photo/intersecting-three-dimensional-lines-in-ralf-hiemisch.jpg);
     text-align: center;
     background-size: cover;
     padding-bottom: 100px;
@@ -1069,7 +1069,7 @@ header nav ul li a:hover {
 /*subscribe*/
 .subscribe {
     position: relative;
-    background-image: url(../project-2/photo/v2-539e9800f6aecb5087f530bb500f3360_1440w.jpg);
+    background-image: url(./photo/v2-539e9800f6aecb5087f530bb500f3360_1440w.jpg);
     background-size: cover;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -1280,7 +1280,7 @@ header nav ul li a:hover {
 /*footer*/
 footer {
     text-align: center;
-    background-image: url(../project-2/photo/v2-539e9800f6aecb5087f530bb500f3360_1440w.jpg);
+    background-image: url(./photo/v2-539e9800f6aecb5087f530bb500f3360_1440w.jpg);
     background-size: cover;
     position: relative;
     padding-top: 50px;
