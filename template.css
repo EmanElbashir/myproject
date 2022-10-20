@@ -299,6 +299,7 @@ header nav ul li a:hover {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: space-evenly
 }
 
 
@@ -313,13 +314,16 @@ header nav ul li a:hover {
 @media(max-width: 767px) {
 
     .srv-box {
+        margin-left: -158px;
         display: flex;
         flex-direction: column;
         text-align: center;
     }
 
     .srv-box i {
-        padding-top: 120px
+        padding-top: 120px;
+        margin-left: -38px;
+
     }
 }
 
@@ -341,6 +345,23 @@ header nav ul li a:hover {
     margin-bottom: 20px;
     margin-top: -100px;
 }
+
+@media(max-width: 1115px) {
+    .SERVICES-container .srv-box i {
+        margin-right: -50px;
+    }
+
+    .srv-box {
+        margin-right: -169px;
+    }
+
+    .SERVICES-container .srv-box p {
+        width: 414px;
+    }
+}
+
+
+
 
 /* 4- Design*/
 .Design {
